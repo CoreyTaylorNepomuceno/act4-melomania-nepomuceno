@@ -14,11 +14,11 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="mainNav">
             <div class="container px-4">
-                <a class="navbar-brand" href="#page-top"> iListen </a>
+                <a class="navbar-brand" href="http://localhost/melomaniac-activity/index.php"> iListen </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item"><a class="nav-link text-light" href="#">Song 1</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="http://localhost/melomaniac-activity/song1.php">Song 1</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="#">Song 2</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="#">Song 3</a></li>
                          <li class="nav-item"><a class="nav-link text-light" href="#">Song 4</a></li>
@@ -42,8 +42,8 @@
                     <div class="col-lg-12 text-center">
                         <?php
                         
-                        echo "<h2> class="text-primary">Keep you safe</h2>";
-                        echo "<p class="lead">Song by Shiloh Dynasty</p>";
+                        echo "<h2> Keep you safe</h2>";
+                        echo "<p Song by Shiloh Dynasty</p>";
                         
                         echo "<p>I'll keep your safe in these arms of mine</p>";
                         echo "<p>Hold on to me pretty baby and you'll see</p>";
