@@ -20,7 +20,7 @@
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link text-light" href="http://localhost/melomaniac-activity/song1.php">Song 1</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="http://localhost/melomaniac-activity/song2.php">Song 2</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="#">Song 3</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="http://localhost/melomaniac-activity/song3.php">Song 3</a></li>
                          <li class="nav-item"><a class="nav-link text-light" href="#">Song 4</a></li>
                           <li class="nav-item"><a class="nav-link text-light" href="#">Song 5</a></li>
                     </ul>
@@ -43,7 +43,7 @@
                         <?php
                         
                         echo "<h2> Keep you safe</h2>";
-                        echo "<p Song by Shiloh Dynasty</p>";
+                        echo "<p class='lead'>Song by Shiloh Dynasty</p>";
                         
                         echo "<p>I'll keep your safe in these arms of mine</p>";
                         echo "<p>Hold on to me pretty baby and you'll see</p>";

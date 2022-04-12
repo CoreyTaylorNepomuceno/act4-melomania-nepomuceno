@@ -42,25 +42,33 @@
                     <div class="col-lg-12 text-center">
                         <?php
                         
-                        echo "<h2> Tell me Why</h2>";
+                        echo "<h2> Losing Interest</h2>";
                         echo "<p class='lead'>Song by Timmies</p>";
                         
-                        echo "<p>Tell me why I'm waiting for someone</p>";
-                        echo "<p>That couldn't give a fuck about me</p>";
-                        echo "<p>No, you wouldn't</p>";
-                        echo "<p>Tell me why I'm waiting for someone</p>";
-                        echo "<p>That couldn't give a fuck about me</p>";
-                        echo "<p>No, you wouldn't</p>";
-                        echo "<p>Tell me why I'm waiting for someone</p>";
-                        echo "<p>That couldn't give a fuck about me</p>";
-                        echo "<p>No, you wouldn't</p>";
-                        echo "<p>Tell me why I'm waiting for someone</p>";
-                        echo "<p>That couldn't give a fuck about me</p>";
-                        echo "<p>No, you wouldn't</p>";
-                        echo "<p>Tell me why I'm waiting for someone</p>";
-                        echo "<p>That couldn't give a fuck about me</p>";
-                        echo "<p>No, you wouldn't</p>";
-                        
+                        echo "<p>Losing interest</p>";
+                        echo "<p>You won't find no better than this</p>";
+                        echo "<p>I swear girl if you leave just let me know</p>";
+                        echo "<p>So I won't look dumb when you move on</p>";
+                        echo "<p>Just let me know</p>";
+                        echo "<br/>";
+
+                        echo "<p>You won't find no better than this</p>";
+                        echo "<p>I swear girl if you leave just let me know</p>";
+                        echo "<p>So I won't look dumb</p>";
+                        echo "<p>Just let me know so I won't look dumb</p>";
+                        echo "<br/>";
+
+                        echo "<p>If you leave</p>";
+                        echo "<p>Just let me know so I won't look dumb</p>";
+                        echo "<p>I swear girl</p>";
+                        echo "<br/>";
+
+                        echo "<p>You won't find no better than this</p>";
+                        echo "<p>I swear girl if you leave just let me know</p>";
+                        echo "<p>So I won't look dumb</p>";
+                        echo "<p>If you leave, just let me know</p>";
+                        echo "<br/>";
+
                         ?>
                     </div>
                 </div>
