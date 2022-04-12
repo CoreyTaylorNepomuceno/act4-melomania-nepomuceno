@@ -42,12 +42,24 @@
                     <div class="col-lg-12 text-center">
                         <?php
                         
-                        echo "<h2> Keep you safe</h2>";
-                        echo "<p Song by Shiloh Dynasty</p>";
+                        echo "<h2> Tell me Why</h2>";
+                        echo "<p Song by Timmies</p>";
                         
-                        echo "<p>I'll keep your safe in these arms of mine</p>";
-                        echo "<p>Hold on to me pretty baby and you'll see</p>";
-                        echo "<p>I can be all you need</p>";
+                        echo "<p>Tell me why I'm waiting for someone</p>";
+                        echo "<p>That couldn't give a fuck about me</p>";
+                        echo "<p>No, you wouldn't</p>";
+                        echo "<p>Tell me why I'm waiting for someone</p>";
+                        echo "<p>That couldn't give a fuck about me</p>";
+                        echo "<p>No, you wouldn't</p>";
+                        echo "<p>Tell me why I'm waiting for someone</p>";
+                        echo "<p>That couldn't give a fuck about me</p>";
+                        echo "<p>No, you wouldn't</p>";
+                        echo "<p>Tell me why I'm waiting for someone</p>";
+                        echo "<p>That couldn't give a fuck about me</p>";
+                        echo "<p>No, you wouldn't</p>";
+                        echo "<p>Tell me why I'm waiting for someone</p>";
+                        echo "<p>That couldn't give a fuck about me</p>";
+                        echo "<p>No, you wouldn't</p>";
                         
                         ?>
                     </div>
