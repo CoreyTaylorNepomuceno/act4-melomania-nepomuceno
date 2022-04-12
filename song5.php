@@ -42,25 +42,31 @@
                     <div class="col-lg-12 text-center">
                         <?php
                         
-                        echo "<h2> Tell me Why</h2>";
+                        echo "<h2> Soft Skin</h2>";
                         echo "<p class='lead'>Song by Timmies</p>";
                         
-                        echo "<p>Tell me why I'm waiting for someone</p>";
-                        echo "<p>That couldn't give a fuck about me</p>";
-                        echo "<p>No, you wouldn't</p>";
-                        echo "<p>Tell me why I'm waiting for someone</p>";
-                        echo "<p>That couldn't give a fuck about me</p>";
-                        echo "<p>No, you wouldn't</p>";
-                        echo "<p>Tell me why I'm waiting for someone</p>";
-                        echo "<p>That couldn't give a fuck about me</p>";
-                        echo "<p>No, you wouldn't</p>";
-                        echo "<p>Tell me why I'm waiting for someone</p>";
-                        echo "<p>That couldn't give a fuck about me</p>";
-                        echo "<p>No, you wouldn't</p>";
-                        echo "<p>Tell me why I'm waiting for someone</p>";
-                        echo "<p>That couldn't give a fuck about me</p>";
-                        echo "<p>No, you wouldn't</p>";
-                        
+                        echo "<p>Is it too much to ask for?</p>";
+                        echo "<p>Yeah</p>";
+                        echo "<p>Can I put my lips on your skin babe?</p>";
+                        echo "<p>...too much to ask for?</p>";
+                        echo "<p>Yeah</p>";
+                        echo "<p>Can I put my? [x4]</p>";
+                        echo "<br/>";
+
+                        echo "<p>Is it too much to ask for?</p>";
+                        echo "<p>Yeah</p>";
+                        echo "<p>Can I put my lips on your skin babe?</p>";
+                        echo "<p>...too much to ask for?</p>";
+                        echo "<p>Yeah</p>";
+                        echo "<p>Can I put my lips on your skin babe?</p>";
+                        echo "<p>...too much to ask for?</p>";
+                        echo "<p>Yeah</p>";
+                        echo "<p>Can I put my lips on your skin babe?</p>";
+                        echo "<p>...too much to ask for?</p>";
+                        echo "<p>Yeah</p>";
+                        echo "<p>Can I put my?</p>";
+                        echo "<br/>";
+
                         ?>
                     </div>
                 </div>
