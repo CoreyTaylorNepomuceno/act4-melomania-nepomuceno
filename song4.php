@@ -42,24 +42,47 @@
                     <div class="col-lg-12 text-center">
                         <?php
                         
-                        echo "<h2> Tell me Why</h2>";
-                        echo "<p class='lead'>Song by Timmies</p>";
+                        echo "<h2> The Most Beautiful Thing</h2>";
+                        echo "<p class='lead'>Song by Bruno Major</p>";
                         
-                        echo "<p>Tell me why I'm waiting for someone</p>";
-                        echo "<p>That couldn't give a fuck about me</p>";
-                        echo "<p>No, you wouldn't</p>";
-                        echo "<p>Tell me why I'm waiting for someone</p>";
-                        echo "<p>That couldn't give a fuck about me</p>";
-                        echo "<p>No, you wouldn't</p>";
-                        echo "<p>Tell me why I'm waiting for someone</p>";
-                        echo "<p>That couldn't give a fuck about me</p>";
-                        echo "<p>No, you wouldn't</p>";
-                        echo "<p>Tell me why I'm waiting for someone</p>";
-                        echo "<p>That couldn't give a fuck about me</p>";
-                        echo "<p>No, you wouldn't</p>";
-                        echo "<p>Tell me why I'm waiting for someone</p>";
-                        echo "<p>That couldn't give a fuck about me</p>";
-                        echo "<p>No, you wouldn't</p>";
+                        echo "<p>Will it be a pavement or a sidewalk</p>";
+                        echo "<p>When I finally lay my eyes on you</p>";
+                        echo "<p>Someone I've already loved</p>";
+                        echo "<p>Or will you find your way out of the blue?</p>";
+                        echo "<br/>";
+
+                        echo "<p>Will it be my flat or your apartment</p>";
+                        echo "<p>When I finally realise I do?</p>";
+                        echo "<p>Will we meet on Baker Street</p>";
+                        echo "<p>Or find ourselves on Melrose Avenue?</p>";
+                        echo "<br/>";
+
+                        echo "<p>I don't know who you are</p>";
+                        echo "<p>But I'll save you a seat</p>";
+                        echo "<p>Hang my coat on a chair next to me</p>";
+                        echo "<p>I tried to reassure the waiter</p>";
+                        echo "<p>Say you're down the street</p>";
+                        echo "<p>He laughed at me</p>";
+                        echo "<p>So here's to you</p>";
+                        echo "<p>The most beautiful thing that I have never seen</p>";
+                        echo "<br/>";
+
+                        echo "<p>Someone on a screen asked me a question</p>";
+                        echo "<p>Something about what love means to me</p>";
+                        echo "<p>Maybe it's just circumstance</p>";
+                        echo "<p>Or general compatibility</p>";
+                        echo "<br/>";
+
+                        echo "<p>I don't know who you are</p>";
+                        echo "<p>But I'll save you a seat</p>";
+                        echo "<p>Hang my coat on a chair next to me</p>";
+                        echo "<p>I tried to reassure the waiter</p>";
+                        echo "<p>Say you're down the street</p>";
+                        echo "<p>He laughed at me</p>";
+                        echo "<p>So here's to you</p>";
+                        echo "<p>The most beautiful thing that I have never seen</p>";
+                        echo "<br/>";
+
                         
                         ?>
                     </div>
